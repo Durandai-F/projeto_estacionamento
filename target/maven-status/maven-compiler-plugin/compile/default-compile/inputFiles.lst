@@ -1,0 +1,14 @@
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/dao/SQLiteTicketDAO.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/dao/TicketDAO.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/view/LoginFrame.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/model/Veiculo.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/model/Carro.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/model/Moto.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/view/HistoricoPanel.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/Main.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/view/MonitoramentoPanel.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/model/Ticket.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/view/MainFrame.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/view/EntradaPanel.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/model/User.java
+/home/ubuntu/estacionamento-app/src/main/java/com/estacionamento/app/view/SaidaPanel.java
